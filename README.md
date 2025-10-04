@@ -1,14 +1,19 @@
 <div align="center">
-https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
-https://img.shields.io/badge/WPF-Windows%2520Desktop-0078D4?style=for-the-badge&logo=windows&logoColor=white
-https://img.shields.io/badge/C%2523-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-
-</div><div align="center">
-https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white
-https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white
-https://img.shields.io/badge/OpenXML-00A4EF?style=flat-square&logo=microsoft&logoColor=white
+  
+![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-Windows%2520Desktop-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![C#](https://img.shields.io/badge/C%2523-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 </div>
+
+<div align="center">
+  
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
+![OpenXML](https://img.shields.io/badge/OpenXML-00A4EF?style=flat-square&logo=microsoft&logoColor=white)
+
+</div>
+
 Описание
 # Excel to Word Converter
 
