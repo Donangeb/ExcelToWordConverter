@@ -10,7 +10,7 @@ using System.Windows;
 
 namespace ExcelToWordConverter.ViewModels
 {
-    // 1. The class is now declared as 'partial'
+
     public partial class MainViewModel : ObservableObject
     {
         [ObservableProperty]
@@ -48,7 +48,7 @@ namespace ExcelToWordConverter.ViewModels
             Status = "Список очищен.";
         }
 
-        // 2. This attribute will now generate the "ConvertAsyncCommand"
+
         [RelayCommand]
         private async Task ConvertAsync()
         {
